@@ -1,0 +1,29 @@
+@font-face{
+	font-family: 'mahfuz';
+	src: url(Mahfuz.ttf)
+	}
+	
+@font-face{
+	font-family: 'SolaimanLipi';
+	src: url(SolaimanLipi.ttf)
+	}
+
+.bangla {
+	font-family: SolaimanLipi;
+    font-size: 24px;
+    text-align: left;
+}
+
+.bangla2 {
+	font-family: SolaimanLipi;
+    font-size: 18px;
+    text-align: left;
+}
+
+.bangla_tl {
+	font-family: mahfuz;
+    font-size: 32px;
+    padding: 5px;
+	line-height: 30px;
+    text-align: left;
+}
